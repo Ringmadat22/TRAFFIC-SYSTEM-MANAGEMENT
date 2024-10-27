@@ -1,0 +1,18 @@
+Project Structure
+The structure of the project will include:
+
+Main Class - SmartCityTrafficManagement.java
+City Representation Classes
+CityGraph.java - Representing the graph.
+Intersection.java - Represents each intersection.
+Algorithms
+ShortestPath.java - Contains Dijkstra’s and divide-and-conquer approach.
+Traffic Management
+TrafficMonitoring.java - Uses queues for vehicle management.
+TrafficSignalControl.java - Controls signals using binary trees.
+TrafficCongestion.java - Uses stacks to detect congestion.
+Graph Traversal
+GraphTraversal.java - Implements BFS and DFS.
+Report Generation
+ReportGenerator.java - Compares Dijkstra and Divide and Conquer approaches.
+Unit Tests - For each class.
